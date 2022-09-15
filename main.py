@@ -6,8 +6,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 import time
 
-email = "rkvirat80@gmail.com"
-password = "bMTZxN39Ybz6eZ"
+email = "********@gmail.com"
+password = "**********"
 
 chrome_driver_path = "C:\Chrome Development\chromedriver.exe"
 
